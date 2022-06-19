@@ -1,0 +1,12 @@
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\bin\Debug\registry.mdf
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\bin\Debug\registry_log.ldf
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\bin\Debug\Remake-portal.exe.config
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\bin\Debug\Remake-portal.exe
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\bin\Debug\Remake-portal.pdb
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\obj\Debug\Remake-portal.csproj.AssemblyReference.cache
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\obj\Debug\Remake_portal.Form1.resources
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\obj\Debug\Remake_portal.Properties.Resources.resources
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\obj\Debug\Remake-portal.csproj.GenerateResource.cache
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\obj\Debug\Remake-portal.csproj.CoreCompileInputs.cache
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\obj\Debug\Remake-portal.exe
+C:\Users\EDWIN GITHINJI\source\repos\Remake-portal\obj\Debug\Remake-portal.pdb

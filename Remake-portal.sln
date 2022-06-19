@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remake-portal", "Remake-portal.csproj", "{9A925B4A-AEF6-48FF-88EF-F37EE8CF57F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "home", "home", "{8C513EE7-0B7F-4C42-8435-375CB2AC9AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remakeHm", "remakeHm\remakeHm.csproj", "{5307F7CB-384E-45C5-8DC0-6AB71747D699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A925B4A-AEF6-48FF-88EF-F37EE8CF57F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A925B4A-AEF6-48FF-88EF-F37EE8CF57F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A925B4A-AEF6-48FF-88EF-F37EE8CF57F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A925B4A-AEF6-48FF-88EF-F37EE8CF57F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5307F7CB-384E-45C5-8DC0-6AB71747D699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5307F7CB-384E-45C5-8DC0-6AB71747D699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5307F7CB-384E-45C5-8DC0-6AB71747D699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5307F7CB-384E-45C5-8DC0-6AB71747D699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2C8B28-DC59-4A02-9926-F4377FC7E7D4}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5307F7CB-384E-45C5-8DC0-6AB71747D699} = {8C513EE7-0B7F-4C42-8435-375CB2AC9AD4}
+	EndGlobalSection
+EndGlobal

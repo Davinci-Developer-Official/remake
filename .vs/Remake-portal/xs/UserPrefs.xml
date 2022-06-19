@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9A925B4A-AEF6-48FF-88EF-F37EE8CF57F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="remakeHm/MainWindow.cs">
+    <Files>
+      <File FileName="Form1.cs" Line="20" Column="17" />
+      <File FileName="Form1.Designer.cs" Line="386" Column="24" />
+      <File FileName="../School Management System C#/SchoolManagementSystem/SchoolManagementSystem/Home.Designer.cs" Line="1" Column="1" />
+      <File FileName="remakeHm/Program.cs" Line="1" Column="1" />
+      <File FileName="remakeHm/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Remake-portal" expanded="True">
+            <Node name="home" expanded="True">
+              <Node name="remakeHm" expanded="True">
+                <Node name="UserInterface" expanded="True" />
+                <Node name="MainWindow.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Remake-portal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

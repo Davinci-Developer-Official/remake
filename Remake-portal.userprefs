@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{9A925B4A-AEF6-48FF-88EF-F37EE8CF57F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="remakeHm/MainWindow.cs">
+    <Files>
+      <File FileName="remakeHm/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
